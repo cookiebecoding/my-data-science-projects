@@ -5,7 +5,7 @@ import seaborn as sns
 import plotly.graph_objs as go
 
 # Import data
-df = pd.read_csv('/Users/lizecoekaerts/Documents/Courses/00-Python/2019-07_Refactored_Py_DS_ML_Bootcamp-master/14-K-Nearest-Neighbors/KNN_Project_Data.csv')
+df = pd.read_csv('KNN_Project_Data.csv')
 #df.head()
 #df.describe()
 #df.info()
